@@ -1,1 +1,1 @@
-# Netflix-Landing-Page-Using-Html-and-Css
+![screencapture-netflix-landing-page-using-html-and-css-vercel-app-2024-05-25-02_22_27](https://github.com/Nur-Adnan/Netflix-Landing-Page-Using-Html-and-Css/assets/56475820/7e55422c-3855-4f0f-a011-367515a6836a)
